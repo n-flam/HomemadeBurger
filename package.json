@@ -1,5 +1,5 @@
 {
-  "name": "burger-list-with-mysql-and-handlebars",
+  "name": "homemadeburger",
   "version": "1.0.0",
   "description": "# Objective A burger logger with MySQL, Node, Express, and Handlebars. Node and MySQL to query and route data, and Handlebars to generate HTML. Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, the app displays the burger on the left side of the page -- waiting to be devoured. The app will store every burger in a database, whether devoured or not.",
   "main": "server.js",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcojansen-gmx/burger-list-with-mysql-and-handlebars.git"
+    "url": "git+https://github.com/n-flam/HomemadeBurger.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcojansen-gmx/burger-list-with-mysql-and-handlebars/issues"
+    "url": "https://github.com/n-flam/HomemadeBurger/issues"
   },
-  "homepage": "https://github.com/marcojansen-gmx/burger-list-with-mysql-and-handlebars#readme",
-  "dependencies": {
+  "homepage": "https://github.com/n-flam/HomemadeBurger#readme",
+    "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.2.1",
     "inquire": "^0.4.8",
