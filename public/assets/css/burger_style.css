@@ -1,17 +1,21 @@
 body {
-    background-color: rgb(177, 40, 40);
+    background-color: #232735;
   }
   
   .banner {
-    background-color: rgb(7, 6, 6);
+    background-color: rgb(255, 255, 255);
     text-align: center;
+    border-radius: 10px;
+    opacity: 0.5;
   }
   
-  #burgerImage {
+  .burgerImage {
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    height: auto;  
+    margin-bottom: 30px;
+    width: 100%;
+    height: auto;
+    border-radius: 40px;  
   }
   
   .addingBurger {
@@ -21,3 +25,34 @@ body {
     padding-bottom: 40px;
   }
   
+  .not-devoured-css {
+    background-color: rgb(83, 83, 83);
+    padding: 20px 20px 20px 20px;
+    border-radius: 40px;
+    color: rgb(168, 168, 168);
+  }
+
+  .devoured-css {
+    background-color: rgb(83, 83, 83);
+    padding: 20px 20px 20px 20px;
+    border-radius: 40px;
+    color: rgb(168, 168, 168);
+  }
+
+.footer {
+  margin: 20px 0px 10px 0px;
+  color: rgb(197, 171, 159);
+}
+
+ul {
+  font-weight: lighter;
+  font-size: 20px;
+  color: aliceblue;
+}
+ li {
+  margin-bottom: 10px;
+ }
+
+ .input-text {
+   color: rgb(243, 243, 243);
+ }
