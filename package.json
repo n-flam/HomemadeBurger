@@ -1,7 +1,7 @@
 {
-  "name": "HomemadeBurger",
+  "name": "homemadeburger",
   "version": "1.0.0",
-  "description": "Node Express Handlebars",
+  "description": "Node Express Handlebars # managable-burger-list-with-mysql-and-handlebars",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,6 +22,9 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.2.1",
     "mysql": "^2.18.1",
-    "node": "^15.8.0"
+    "node": "^15.10.0"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
   }
 }
