@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(177, 40, 40);
+  }
+  
+  .banner {
+    background-color: rgb(7, 6, 6);
+    text-align: center;
+  }
+  
+  #burgerImage {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;  
+  }
+  
+  .addingBurger {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+  }
+  
