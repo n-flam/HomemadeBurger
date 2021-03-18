@@ -16,12 +16,13 @@ A burger logger with MySQL, Node, Express, and Handlebars. Node and MySQL to que
 - mysql
 
 # github
+https://github.com/n-flam/HomemadeBurger
 
 
 # liveHerocuDemo
-
+https://homemadeburger.herokuapp.com/
 
 
 # mockup
 
-![node burger app]
+![node burger app]https://github.com/n-flam/HomemadeBurger/blob/main/assets/screenshot.png
