@@ -24,5 +24,5 @@ https://homemadeburger.herokuapp.com/
 
 
 # mockup
+![Alt text](https://github.com/n-flam/HomemadeBurger/blob/5314d916637cd70af1d28e281298b4444fdfc7ff/assets/screenshot.png)
 
-![node burger app]https://github.com/n-flam/HomemadeBurger/blob/main/assets/screenshot.png
